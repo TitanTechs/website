@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import CommingSoon from '$lib/CommingSoon.svelte';
 </script>
 

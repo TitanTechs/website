@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import Title from '$lib/shared/Title.svelte';
 </script>
 
